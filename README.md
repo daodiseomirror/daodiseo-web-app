@@ -1,3 +1,3 @@
-# Mirror Web App (Terra)
+# Mirror Web App (Daodiseo)
 
 ![Banner](banner.png)
